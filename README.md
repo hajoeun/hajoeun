@@ -3,3 +3,4 @@
 
 
 ![Joeun's github stats](https://github-readme-stats.vercel.app/api?username=joeunha&count_private=true&show_icons=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeunha&layout=compact)
