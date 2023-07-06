@@ -21,20 +21,3 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next-000000?style=flat&logo=next.js&logoColor=white"/>
 </section>
-
-### 소셜
-
-<section>
-  <a href="https://hajoeun.blog/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-6611F5?logo=Gatsby&logoColor=white"/>
-  </a>
-  <a href="mailto:hajoeun90@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hajoeun/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/hajoeun_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-  </a>
-</section>
