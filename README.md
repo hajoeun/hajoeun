@@ -6,7 +6,7 @@
 
 |회사|역할|재직 기간|
 |---|---|---|
-| [당근마켓](https://www.daangn.com/) | Software Engineer | 22.05 ~ |
+| [당근](https://www.daangn.com/) | Software Engineer | 22.05 ~ |
 | [뱅크샐러드](https://www.banksalad.com/) | Software Engineer | 18.12 ~ 22.05 |
 | [마플코퍼레이션](https://www.marpple.com/kr) | Software Engineer | 16.07 ~ 18.11 |
 
@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-29beb0?style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node-3c873a?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next-000000?style=flat&logo=next.js&logoColor=white"/>
